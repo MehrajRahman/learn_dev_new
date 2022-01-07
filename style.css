@@ -1,0 +1,21 @@
+/* UNIVERSAL tag */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* For calling a class name you should add a dot in front of your class name */
+/* class and ID */
+.header{
+   color: rgb(225,112,130);
+
+}
+
+div{
+    background-color: slateblue;
+    /* Top, right, bottom, left */
+    margin: 10px 20px 30px 40px;
+  
+
+}
+
