@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background: gray; */
+}
+
+div{
+    background: darkblue !important;
+    margin: 50px;
+    padding: 50px;
+    width: 100%;
+}
+h1{
+    color: white;
+    text-align: center;
+    border: 2px solid #fff;
+    margin: 5px 6px 7px 8px;
+    padding: 50px;
+    width: 50%;
+}
+button{
+    border: 1px solid rgb(0, 0, 0);
+    display: block;
+    margin: 10px auto;
+    background: rgb(57, 167, 156);
+    color: rgb(60, 255, 0);
+    justify-content: center;
+    align-items: center;
+    border-radius:10% ;
+    padding: 20px 40px;
+  
+}
+p{
+    color: rgb(253, 171, 156);
+    text-align:center;
+}
+
+
+nav{
+    padding: 5px 10px;
+    background: navy;
+
+
+}
+img{
+    width: 25px;
+
+}
+nav ul{
+    /* float: right; */
+    display: inline-block;
+    text-align: right;
+}
+
+nav ul li{
+    display: inline-block;
+    margin: 5px 10px;
+    color: white;
+    
+
+}
