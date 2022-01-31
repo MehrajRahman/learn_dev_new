@@ -1,0 +1,56 @@
+*{
+    font-size:14px; 
+    color: darkcyan;
+    margin: 0;
+    padding: 0;
+/* 1rem = 14px */
+/* rem| em */
+/* R=ROOT */
+
+}
+div{
+    background: #f3f3f3;
+}
+.parentDiv{
+    /* padding: 1rem 2rem ; */
+    background: #ff0000;
+    width: 100vw;
+
+    /* margin: 1rem; */
+    height: 500vh;
+}
+.secondChild{
+    background: #222;
+    padding: 1rem 2rem ; 
+    font-size: 20px;
+    color: darkgoldenrod;
+}
+.secondChild p{
+      font-size: 1em;
+}
+.thirdChild{
+    background: #111;
+    position: sticky;
+    left: 20px;
+    top: 500px;
+
+}
+.firstChild{
+    /* padding: 2rem; */
+    /* position: absolute; */
+    top: 10px;
+    left: 50px;
+}
+.secondChild{
+    background: rgb(19, 214, 149);
+    
+    /* bottom: 10px; */
+    /* right:50px */
+
+}
+/* position */
+/* Static
+Fixed
+Relative
+Absolute
+Sticky */
